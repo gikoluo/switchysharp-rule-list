@@ -87,6 +87,11 @@
 *://tw.knowledge.yahoo.com/*
 *://*.youtube.com/*
 *://*.ytimg.com/*
+
+*://*.facebook.*/*
+
+*://*.stumbleupon.com/*
+*://*.netdna-ssl.com/*
 [regexp]
 
 #END
