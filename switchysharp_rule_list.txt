@@ -89,6 +89,10 @@
 *://*.ytimg.com/*
 
 *://*.facebook.*/*
+*://*.fbcdn.net/*
+
+*://*.akamaihd.net/*
+
 
 *://*.stumbleupon.com/*
 *://*.netdna-ssl.com/*
